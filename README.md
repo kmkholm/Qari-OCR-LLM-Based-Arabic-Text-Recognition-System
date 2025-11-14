@@ -310,8 +310,8 @@ of this software and associated documentation files...
 
 **Dr. Mohammed Tawfik**  
 📧 Email: kmkhol01@gmail.com  
-🔬 Research: Computer Vision & Arabic NLP  
-🌍 Expertise: Arabic OCR, Document Analysis  
+🔬 Research: LLM,CYBERSECURITY 
+🌍 Expertise: LLM,CYBERSECURITY,AI 
 
 ---
 
