@@ -1,0 +1,1 @@
+# Qari-OCR-LLM-Based-Arabic-Text-Recognition-System
